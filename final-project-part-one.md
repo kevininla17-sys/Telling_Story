@@ -22,7 +22,9 @@ This project is organized as a four-part story. It begins by introducing Pittsbu
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-This project uses publicly available data from the U.S. Census Bureau’s Business Dynamics Statistics (BDS), which provides annual counts of new business births for all U.S. metropolitan areas. These data allow consistent tracking of pre- and post-broadband trends in the six cities that adopted municipal, open-access, or private fiber networks, as well as in their matched control metros. Broadband rollout years were compiled from public city documentation, municipal announcements, and FCC filings to define the treatment periods used in the comparisons. For Pittsburgh, the BDS series is used to establish the current baseline of roughly 4,500 new business births per year. The project then applies the observed percentage effects from the treated cities to this baseline to estimate how different broadband models might impact Pittsburgh’s entrepreneurial activity. All cleaned datasets and supporting files will be uploaded to the GitHub repository for transparency.
+This project relies on publicly available data from the U.S. Census Bureau’s Business Dynamics Statistics (BDS). The BDS provides annual counts of new business births for every U.S. metropolitan area, which makes it possible to track how different cities changed before and after their broadband upgrades. These datasets allow me to compare trends in the cities that rolled out municipal, open-access, or private fiber networks with those of similar control metros.
+
+Broadband rollout years come from public city documents, press releases, and FCC filings. These dates help define the “treatment” period in the comparisons. For Pittsburgh, I use the BDS series to establish the current baseline of about 4,500 new business births per year. I then apply the percent changes observed in the treated cities to estimate how much Pittsburgh might benefit under a public or open-access broadband model. All cleaned versions of the data will be uploaded to this GitHub repo so the analysis is transparent and easy to follow.
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
@@ -35,7 +37,7 @@ This project uses publicly available data from the U.S. Census Bureau’s Busine
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-The final project will combine Tableau for interactive data visualizations and Shorthand for the narrative presentation. Tableau will be used to build small-multiple trend lines, treatment-control comparisons, summary effect visuals, and the Pittsburgh forecast chart. These visuals will then be embedded into a Shorthand-style scrolling story, allowing the narrative to unfold in a structured and visually engaging way. This method aligns with course expectations and supports a clear, audience-friendly data story.
+I plan to build the analysis and charts in Tableau, and then present the final story using Shorthand. Tableau will handle the small-multiple trend lines, the treated/control comparisons, and the Pittsburgh forecast graphic. Shorthand will be used to put everything together into a clear, scrolling narrative. This approach lets me combine interactive visuals with a readable story format that fits the goals of the final project.
 
 ## References
 U.S. Census Bureau. (2024). Business Dynamics Statistics (BDS) datasets. https://www.census.gov/data/datasets/time-series/econ/bds/bds-datasets.html
