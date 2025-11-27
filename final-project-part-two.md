@@ -1,6 +1,8 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
+Shorthand Link: https://preview.shorthand.com/KTSaKnnFDI2Jxzrx
+
 1. Opening Context — Pittsburgh’s Long-Term Entrepreneurship Decline
 A single-metro line chart shows 45 years of declining business entry rates in Pittsburgh (Visual 1). This establishes the core problem: the region’s entrepreneurial dynamism has eroded well before any broadband reforms.
 
