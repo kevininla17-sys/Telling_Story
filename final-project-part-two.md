@@ -1,8 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
 1. Opening Context — Pittsburgh’s Long-Term Entrepreneurship Decline
 A single-metro line chart shows 45 years of declining business entry rates in Pittsburgh (Visual 1). This establishes the core problem: the region’s entrepreneurial dynamism has eroded well before any broadband reforms.
 
@@ -18,8 +16,6 @@ Based on the observed effects in treated cities, later sections of the Shorthand
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story.
-
 The story primarily targets:
 - Local policymakers and economic development officials in Pittsburgh
 - Civic-technology advocates and broadband policy stakeholders
@@ -27,7 +23,6 @@ The story primarily targets:
 - Students and professionals seeking to understand the impact of broadband infrastructure on entrepreneurship
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
 | **Goal**                                   | **Questions to Ask**                                               |
 | ------------------------------------------ | ------------------------------------------------------------------ |
@@ -39,18 +34,7 @@ The story primarily targets:
 | Determine emotional/strategic resonance    | “Which visual feels the most persuasive, and why?”                 |
 | Identify improvement opportunities         | “What changes would make this story clearer or more compelling?”   |
 
-
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
-
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 A total of three interviews were conducted. Participants included:
 - A graduate student from a public policy program
@@ -65,12 +49,7 @@ A total of three interviews were conducted. Participants included:
 | Which visual is most persuasive? | Provo & Huntsville treatment chart.                                                                                            | Rust Belt comparison.                                                                  | Long-run Pittsburgh decline.                                      |
 | Suggested improvements           | More consistent color usage.                                                                                                   | Add light context text in Shorthand.                                                   | Consider including job creation as a supporting metric.           |
 
-
-
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | **Research Synthesis**                                              | **Anticipated Changes for Part III**                                                          |
 | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -82,13 +61,10 @@ Text here!
 | Flow between visuals needs smoother transitions.                    | Build clear narrative sections: problem → comparison → treatment → application to Pittsburgh. |
 
 
-> ...include any final thoughts you have here. 
-
+Final Thoughs:
 The research confirms that the visuals are compelling but would benefit from more explanatory text and consistent formatting. Part III will prioritize clarity, narrative flow, and stronger contextual framing around Pittsburgh’s specific challenges and opportunities.
 
 # Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
 Clean, minimalistic, data-journalism inspired aesthetic. Influences include the Financial Times and New York Times visual storytelling style: muted color palettes, thin lines, generous whitespace, and concise annotations.
 
 ## References
@@ -98,5 +74,4 @@ Clean, minimalistic, data-journalism inspired aesthetic. Influences include the 
 - Course materials from Data Visualization & Good Charts framework
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+AI tools were used for organizing ideas and receiving guidance on visualization best practices.
