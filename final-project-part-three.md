@@ -1,36 +1,45 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
+Shorthand: https://preview.shorthand.com/KTSaKnnFDI2Jxzrx
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+Since completing Part II, I focused on transforming the rough wireframes and early sketches into a coherent, polished Shorthand presentation. The main changes involved tightening the story structure, simplifying visualizations, and removing extra concepts that distracted from the central takeaway. I re-evaluated the order of sections so that readers encounter the “why this matters” explanation first, followed by the data-driven insights.
 
-Text here!
+I also incorporated feedback from interviews and peer critique sessions, which highlighted that some earlier drafts were too analysis-heavy. As a result, I rewrote several sections to be more narrative, added clearer transitions, and reworked the introduction to frame the problem in terms of everyday experiences that people in Pittsburgh can relate to. This helped keep the story accessible to a non-technical audience.
+
+Another major update was strengthening the conclusions from each chart. In Part II, many visuals were functional but lacked explicit meaning. For Part III, I added short interpretations beneath each visualization so readers understand what the patterns actually imply for enforcement practices.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+My final audience is Pittsburgh residents, commuters, and graduate students—particularly those who interact with parking enforcement or are curious about how fines and violations are distributed across the city. From user interviews, I learned that most people don’t want technical explanations; they want a clear story, simple visuals, and interpretations that connect to real experiences.
 
-Text here!
+Personas created in Part II helped refine this. The target persona is a busy, practical reader who wants to understand whether enforcement is fair and consistent, without diving into complex data methods. This pushed me to reduce detail, keep charts intuitive, and explain insights in plain language.
+
+I made several adjustments based on audience needs:
+- Reduced chart density and avoided overly granular breakdowns
+- Rewrote captions to clearly state the takeaway, not just describe the chart
+- Added more real-world framing (“What this means for drivers…”)
+- Prioritized neighborhood-level and time-of-day patterns, which interviewees found most relatable
+
+Overall, the audience focus shaped almost every design and writing decision in Part III.
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+Several design decisions guided the completion of Part III:
+- Minimal color palette: I used a small set of colors throughout the story to reduce distraction and keep attention on the trends.
+- Consistent chart types: I intentionally used similar styles (bar/line) to avoid forcing readers to constantly re-learn how to read each section.
+- Short, direct captions: Each visualization includes one clear message to help readers interpret the data immediately.
+- Scroll-based storytelling: The Shorthand layout supports pacing, allowing information to be revealed in small pieces rather than overwhelming the audience.
+- Reorganized section flow: I moved the problem framing earlier and placed neighborhood comparisons before time-based charts, since audience testing showed this order was more intuitive.
 
-Text here!
+What stood out during this process was how different a polished data story is from a technical report. Many design choices were not about data accuracy but about how a human reader absorbs information. The biggest insight I learned is how important pacing, clarity, and simplicity are when communicating with a general audience.
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+All references and image attributions are included directly in the Shorthand story. No additional external references were used specifically for this GitHub writeup.
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
+AI tools were used only to help with light editing and phrasing. All analysis, design work, visualizations, and decisions in this project were completed by me.
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+Completing Part III brought all the earlier components together into a finished story. The biggest challenge was refining the narrative so it stayed accessible while still grounded in real data patterns. I am most satisfied with how the final sequence of visualizations builds a logical flow from problem statement to insights. If I had more time, I would have explored more granular violation categories and potentially added an interactive component, but I’m happy with how the overall experience turned out.
 
 
